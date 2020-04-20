@@ -8,6 +8,7 @@ public class Main {
 =======
         System.out.println("hello vivek");
         System.out.println("hello ritik");
+        System.out.println("hello jack");
 >>>>>>> aac551867eeb5dd7f474427885f5c21ea591d887
     }
 }
